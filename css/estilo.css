@@ -32,3 +32,11 @@ h1{
     clear: both;
     display: inline-flexbox;
 }
+
+#section-01{
+    margin-top: 20rem !important;
+}
+
+#nav-bar-cont{
+    background-color: rgba(223, 224, 230, 0.94);
+}
